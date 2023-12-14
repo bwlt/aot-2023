@@ -1,0 +1,15 @@
+{
+  "name": "aot-2023",
+  "version": "1.0.0",
+  "description": "My solutions for Advent of TypeScript 2023 (https://typehero.dev/aot-2023)",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "keywords": ["Advent of TypeScript", "Christmas"],
+  "author": "Walter Barbagallo",
+  "license": "ISC",
+  "devDependencies": {
+    "type-testing": "^0.2.0",
+    "typescript": "^5.3.3"
+  }
+}
